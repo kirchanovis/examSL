@@ -18,6 +18,7 @@ npm run build
 npm run build --report
 
 npm install vue2-hammer
+
 ```
 
 
